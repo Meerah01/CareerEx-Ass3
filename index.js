@@ -16,7 +16,7 @@ console.log( favoriteQuote.toLocaleLowerCase() )    // toLocaleLowerCase() : con
 
 // Question 3
 let word = "I am Capable"
-let reversedWord = word.split( '' ).reverse().join('')
+let reversedWord = word.split( '' ).reverse().join('')    //splits the letters into single units, reverses them and joins them back into a string.
 console.log( reversedWord )
 
 
